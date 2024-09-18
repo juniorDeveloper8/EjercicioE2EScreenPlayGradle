@@ -1,0 +1,15 @@
+Conclusiones del Ejercicio de Automatización E2E
+Al realizar la compra de dos productos en Demoblaze, se observó que no era necesario crearce una cuenta o iniciar sesión, lo que facilita una ejecución inmediata del proceso de compra.
+La automatización demuestra ser eficiente al completar estas transacciones, permitiendo realizar pruebas de manera rápida y sin errores, lo que mejora significativamente el tiempo de entrega de la certificación.
+
+Funcionamiento Eficiente del Flujo de Compra
+El ejercicio de automatización del flujo de compra ha demostrado un rendimiento sólido y confiable en todos los pasos del proceso.
+La prueba abarcó desde la selección y adición de productos al carrito hasta el llenado del formulario de compra y la finalización de la transacción.
+Los resultados indican que:
+
+- Cada Paso del Proceso: Todos los pasos del flujo de compra se ejecutaron con éxito, sin errores ni fallos.
+Esto incluye la navegación por la página, la adición de productos al carrito, la validación del contenido del carrito, el llenado del formulario y la finalización de la compra.
+
+- Tiempo de Respuesta: La duración total de las pruebas fue óptima, con tiempos de respuesta rápidos en cada etapa, lo que sugiere que el sistema maneja eficazmente las solicitudes y respuestas durante el proceso de compra.
+
+- Interacción con la Interfaz: La interacción con todos los elementos de la interfaz de usuario, incluidos botones y campos de formulario, fue exitosa, indicando que la aplicación web funciona según lo esperado.

@@ -46,12 +46,6 @@ dependencies {
     testImplementation 'ch.qos.logback:logback-classic:1.5.8'
 }
 
-//test {
-//    useJUnitPlatform()
-//    include '**/*.feature'
-//}
-
-// Optional: Add timestamp generation task if needed
 task generateTimestamp {
     doLast {
         def timestamp = new java.text.SimpleDateFormat("yyyy-MM-dd HH-mm-ss").format(new java.util.Date())
